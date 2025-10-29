@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 Currently Learning
-- **Java & Object-Oriented Programming (OOP)**
+- **Java & Object-Oriented Programming**
 - **SQL & Database Design**
 - **Git & Version Control**
 - **User Interface Development**
@@ -21,20 +21,39 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,css,docker,vscode,intellij,webstorm,linux&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,idea,webstorm,linux,wordpress,docker&perline=10" alt="Tech stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Certifications & Learning
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlostc2003&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlostc2003&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <a href="https://www.credly.com/badges/0de28528-7d95-408e-9754-35e09cc79416/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Network%20Technician-Cisco-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Network Technician" />
+  </a>
+  <a href="https://www.credly.com/badges/e1ed76c1-af94-480e-b1af-5d01a9c5c262/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Junior%20Cybersecurity-Cisco-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Junior Cybersecurity" />
+  </a>
+  <a href="https://www.credly.com/badges/b675df34-2e6f-47db-845a-cd9ef2a3e997/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Network%20Support%20and%20Security-Cisco-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Network Support & Security" />
+  </a>
 </p>
 
 ---
 
 ### 📫 Contact
-📧 **[carlostccarlos2003@gmail.com](mailto:carlostccarlos2003@gmail.com)**  
-🌐 **[cartorcas.es](https://www.cartorcas.es)** — Professional testing & deployment experiments  
-🌐 **[cartorcas.me](https://www.cartorcas.me)** — Personal résumé & portfolio  
+<p align="center">
+  <a href="https://www.linkedin.com/in/cartorcas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:carlostccarlos2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.cartorcas.es" target="_blank">
+    <img src="https://img.shields.io/badge/cartorcas.es-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cartorcas.es" />
+  </a>
+  <a href="https://www.cartorcas.me" target="_blank">
+    <img src="https://img.shields.io/badge/cartorcas.me-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cartorcas.me" />
+  </a>
+</p>
+
