@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/wN-FPJJTz28AAAAd/rgb-rainbow.gif" alt="RGB Rainbow Banner" width="100%">
 </p>
-
-<h1 align="center">👋 Hi, I'm Carlos</h1>
+<p align="center"
+  
+# <h1 align="center">👋 Hi, I'm Carlos</h1>
 
 <p align="center">
   💻 Spanish student of <b>Multiplatform Application Development (DAM)</b><br>
@@ -21,7 +22,9 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,idea,webstorm,linux,wordpress,docker&perline=10" alt="Tech stack" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
 </p>
 
 ---
